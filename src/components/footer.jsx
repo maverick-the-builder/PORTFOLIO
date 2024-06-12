@@ -6,7 +6,7 @@ const Footer = () => {
         <p>&copy; {new Date().getFullYear()} Anup's Portfolio</p>
         <div className="social_icons">
           <a
-            href="https://twitter.com/olawanle_joel"
+            href="https://x.com/AnupRawat189675"
             aria-label="Twitter"
             target="_blank"
             rel="noopener noreferrer"
