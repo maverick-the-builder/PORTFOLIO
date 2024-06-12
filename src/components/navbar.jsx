@@ -7,7 +7,7 @@ const Navbar = () => {
         <Link href="/">Anup's Portfolio</Link>
       </div>
       <a
-        href="https://docs.google.com/document/d/10ZosQ38Z3804KYPcb_aZp9bceoXK-q3GrkHjYshqIRE/edit?usp=sharing"
+        href="https://docs.google.com/document/d/1AOROhtwKECMlV3v9yneLuBT6jGLq_3s-/edit?usp=drive_link&ouid=104085456920813938243&rtpof=true&sd=true"
         className="cta-btn"
       >
         Resume

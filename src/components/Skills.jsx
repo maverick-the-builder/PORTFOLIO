@@ -21,7 +21,7 @@ const Skills = () => {
         </div>
         <div className="skill-card node">
           <i className="fa-brands fa-node-js node-icon"></i>
-          <p>Node</p>
+          <p>NextJs</p>
         </div>
         <div className="skill-card python">
           <i className="fa-brands fa-python python-icon"></i>
